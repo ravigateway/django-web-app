@@ -122,3 +122,4 @@ GitHub.sublime-settings
 /djangoappdemo/db.sqlite3
 /djangoappdemo/djangoappdemo/__pycache__
 /djangoappdemo/djangoappdemo/local_settings.py
+/djangoappdemo/polls/__pycache__
